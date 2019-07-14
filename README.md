@@ -31,3 +31,4 @@ snek --type cute
 snek --type fancy
 ```
 ## prologue 
+thanks [Amir Rachum](https://discuss.amir.rachum.com/t/python-entry-points-explained/193/19) looking forward to seeing more tutorials
