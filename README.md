@@ -11,7 +11,7 @@ python 3.7 tested working on Windows
 ```
 python -m venv venv
 venv\Scripts\activate # Windows
-venv\bin\activate # Linux
+venv/bin/activate # Linux
 pip install docopt
 ```
 3. go to snek folder and install
