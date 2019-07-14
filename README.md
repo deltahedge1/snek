@@ -1,7 +1,7 @@
 # Working Code for Snek Tutorial
 
 ## Disclaimer
-I did not make this code but I really enjoyed the tutorial. To help others I put up a working version on github so that others could see how it works if they are having trouble. Props to Amir Rachum for the tutorial.
+I did not make this tutorial or come up with this code but I really enjoyed the tutorial. To help others I am putting up a working version on github. This will help others see how it works if they are having trouble. Props to [Amir Rachum](https://discuss.amir.rachum.com/t/python-entry-points-explained/193/19) for the tutorial.
 
 python 3.7 tested working on Windows
 
