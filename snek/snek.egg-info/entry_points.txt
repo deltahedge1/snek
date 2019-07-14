@@ -1,0 +1,7 @@
+[console_scripts]
+snek = snek:main
+
+[snek_types]
+fancy = snek:fancy_snek
+normal = snek:normal_snek
+
